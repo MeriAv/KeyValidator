@@ -29,6 +29,10 @@
 * c2bc778a-1cb9-46c6-b435-0489649d2a42 - этот ключ отдает ответ FAIL
 * 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1 - этот ключ отдает ответ OK
 
+На основе проведенного тестирования обнаружены следующие дефекты:
+* https://github.com/MeriAv/KeyValidator/issues/2#issue-735183522
+* https://github.com/MeriAv/KeyValidator/issues/1#issue-735181647
+
 Тестирование производилось в следующем окружении:
 * Windows 10 Pro
 * Java 11
